@@ -1,0 +1,27 @@
+﻿#foto {
+    width: 250px;
+    margin: 2rem 0;
+    border-radius: 50%;
+    border:solid 2px black;
+}
+.seccion-bienbenida {
+    margin:5rem 0 10rem 0;
+    color:white;
+}
+    .seccion-bienbenida h1 {
+        margin-bottom:1rem;
+    }
+    .seccion-bienbenida p {
+        font-family:sans-serif;
+        font-size:1.25rem;
+        line-height:1.5;
+    }
+.habilidades ul {
+    padding-left:0;
+    list-style:none;
+}
+
+i {
+    font-size: 50px;
+    color: #0d6efd;
+}
