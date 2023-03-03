@@ -1,0 +1,30 @@
+﻿#container-main-mobil {
+    display:flex;
+    justify-content:flex-start;
+}
+.menu-mobil {
+    background-image: url(../img/blue-background.jpg);
+    background-size: cover;
+    border-radius: 10px 0px 0px 10px;
+    text-align: left;
+    height: calc(90vh);
+}
+.item-mobil li {
+    border-bottom: solid 1px #005BA0;
+}
+.item-mobil li a {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+} 
+.item-mobil li a i {
+    font-size:20px;
+    color:#ffffff;
+    margin:10px;
+    }
+.dropdown-mobil {
+    background-image: url(../img/blue-background.jpg);
+    background-size: cover;
+    list-style:none;
+}
+
